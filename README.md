@@ -1,5 +1,4 @@
 # 2026-AI-Capstone
-# 2026 AI Data Convergence Capstone
 
 ## 강수량 기반 전국 침수 위험지역 예측 및 시각화
 
